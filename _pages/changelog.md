@@ -8,7 +8,7 @@ include_in_header: true
 This is the changelog for ThreeDo. You can see all the changes made to the app here.
 
 <br>
-<!-- 
+
 ### `Latest`
 # **Version 1.1**
 This is the first update to the app. Just some small changes to improve user experience.
@@ -19,7 +19,7 @@ This is the first update to the app. Just some small changes to improve user exp
 #### Bug Fixes
 - Small fixes.
 
-<br> -->
+<br>
 
 ### `Initial Release`
 # **Version 1.0**
