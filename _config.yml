@@ -36,15 +36,15 @@ features                                  :
 
   - title                                 : Three Goals
     description                           : Pick and commit to three goals a day.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : check
     
   - title                                 : Plan For Tommorow
     description                           : Choose three goals for the next day.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
 
   - title                                 : Track Progress
     description                           : View past goals and track your progress.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : fire
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
